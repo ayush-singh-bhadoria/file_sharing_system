@@ -64,7 +64,7 @@ Make sure you are using `Python 3.12` or later. <br>
 These instructions will help you get set up with a local development environment
 1. Clone the repository:
    ```shell
-   git clone https://github.com/ayush-singh-bhadoria/Secure-File-Sharing-System.git
+   git clone https://github.com/ayush-singh-bhadoria/file_sharing_system.git
    cd Secure-File-Sharing-System
    ```
 2. Set up a virtual environment:
